@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hellokaikai.github.io/hellokai.github.io/</id>
     <title>Hellokai</title>
-    <updated>2019-12-17T02:22:36.748Z</updated>
+    <updated>2019-12-17T02:24:17.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hellokaikai.github.io/hellokai.github.io/"/>
     <link rel="self" href="https://hellokaikai.github.io/hellokai.github.io//atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://hellokaikai.github.io/hellokai.github.io//images/avatar.png</logo>
     <icon>https://hellokaikai.github.io/hellokai.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Hellokai</rights>
+    <entry>
+        <title type="html"><![CDATA[2019年末的遇见]]></title>
+        <id>https://hellokaikai.github.io/hellokai.github.io//post/2019-nian-mo-de-yu-jian</id>
+        <link href="https://hellokaikai.github.io/hellokai.github.io//post/2019-nian-mo-de-yu-jian">
+        </link>
+        <updated>2019-12-16T17:52:49.000Z</updated>
+        <content type="html"><![CDATA[<p>现在是北京时间凌晨<strong>1：53</strong>分<br>
+我刚刚搭建好了我自己的私人博客<br>
+写这第一篇开篇文章送给你</p>
+]]></content>
+    </entry>
 </feed>
